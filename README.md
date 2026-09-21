@@ -7,7 +7,7 @@ Trabajo para la materia de Desarrollo de Servicios Web. Es una pagina web sencil
 * Materia: Desarrollo de Servicios Web
 
 
-## Lo qye hace esta pagina
+## Lo que hace esta pagina
 1. Tiene un campo de texto donde puedes escribir el nombre (por ejemplo garchomp) o el numero de ID de cualquier pokemon.
 2. Al presionar el boton, hace una peticion con `fetch` a la API de PokeAPI.
 3. Si el pokemon existe, te muestra una tarjeta con:
